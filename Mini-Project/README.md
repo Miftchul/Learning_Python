@@ -19,3 +19,6 @@ Berikut beberapa ide Mini Project dengan Python yang bisa kamu pilih:
 17. **Currency Converter**: Program untuk mengonversi mata uang menggunakan data nilai tukar terkini.  
 18. **Recipe App**: Aplikasi untuk menyimpan dan mencari resep masakan favorit.  
 19. **Chatbot Sederhana**: Program chatbot sederhana yang dapat merespons pertanyaan dasar (Menggunakan if, else). ✔️
+20. **Create File Gif**: Program untuk membuat file Gif (Bunga Mawar). ✔️
+21. **Turtle File**: Program File turtle membuat animasi bunga mawar. ✔️
+22. 
