@@ -1,6 +1,6 @@
 Berikut beberapa ide Mini Project dengan Python yang bisa kamu pilih:
 
-1. **To-Do List App**: Aplikasi sederhana untuk mencatat dan mengelola daftar tugas.
+1. **To-Do List App**: Aplikasi sederhana untuk mencatat dan mengelola daftar tugas. ✔️
 2. **Number Guessing Game**: Game di mana pengguna menebak angka yang diacak oleh program.
 3. **Weather App**: Aplikasi untuk menampilkan cuaca menggunakan API seperti OpenWeatherMap.
 4. **Simple Calculator**: Kalkulator sederhana dengan operasi dasar (tambah, kurang, kali, bagi). ✔️
