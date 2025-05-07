@@ -1,3 +1,7 @@
+# Brute Force Example
+# This file demonstrates solving problems using the brute force approach.
+# Brute force involves trying all possible solutions to find the correct one.
+
 import itertools
 
 def brute_force(target, characters):
