@@ -1,17 +1,14 @@
 def rotate_array(arr, d):
     n = len(arr)  # Get the length of the array
-    
+
     # Check if the array is empty or if d is 0
     if d < 0 or d >= n:
         return "Invalid rotation count"  # Return an error message if d is invalid
-    
-    # Create a new array to store the rotated elements
-    rotated_arr =[0] * n
-    
-    # Peform the rotation
-    for i in range(n):
-        rotated_arr[i] = arr[(i + d) % n]  # Calculate the new index for each element
-        
+
+    # Perform the rotation using slicing
+    d = d % n  # Handle cases where d > n
+    rotated_arr = arr[d:] + arr[:d]  # Rotate the array using slicing
+
     return rotated_arr  # Return the rotated array
 
 # Input array and rotation count
