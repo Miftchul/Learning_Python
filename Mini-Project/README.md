@@ -4,7 +4,7 @@ Berikut beberapa ide Mini Project dengan Python yang bisa kamu pilih:
 2. **Number Guessing Game**: Game di mana pengguna menebak angka yang diacak oleh program.
 3. **Weather App**: Aplikasi untuk menampilkan cuaca menggunakan API seperti OpenWeatherMap. ✔️
 4. **Simple Calculator**: Kalkulator sederhana dengan operasi dasar (tambah, kurang, kali, bagi). ✔️
-5. **Password Generator**: Program untuk membuat password acak yang aman.
+5. **Password Generator**: Program untuk membuat password acak yang aman. ✔️
 6. **Quiz App**: Aplikasi kuis sederhana dengan pertanyaan pilihan ganda.
 7. **Pomodoro Timer**: Timer untuk membantu manajemen waktu dengan teknik Pomodoro.
 8. **Expense Tracker**: Aplikasi untuk mencatat dan melacak pengeluaran harian.
